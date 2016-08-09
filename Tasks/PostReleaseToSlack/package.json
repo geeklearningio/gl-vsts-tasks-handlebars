@@ -1,0 +1,8 @@
+{
+  "name": "jsonpatch",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "vsts-task-lib": "0.9.6"
+  }
+}

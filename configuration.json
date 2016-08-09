@@ -8,7 +8,8 @@
             ],
             "DisplayNamesSuffix": "",
             "TaskIds": {
-                "ExecuteTemplates": "DEEAA603-DA23-43AB-A099-33AEFE358520"
+                "ExecuteTemplates": "DEEAA603-DA23-43AB-A099-33AEFE358520",
+                "PostReleaseToSlack" : "C31E5A85-698C-4CB6-B303-07E7C42CC73F"
             }
         },
         {
@@ -17,7 +18,8 @@
             "VssExtensionGalleryFlags": [],
             "DisplayNamesSuffix": " (Preview)",
             "TaskIds": {
-                "ExecuteTemplates": "7D67D67E-0A53-4499-8A49-5D582C87D9C3"
+                "ExecuteTemplates": "7D67D67E-0A53-4499-8A49-5D582C87D9C3",
+                "PostReleaseToSlack" : "70CFAC67-F9A4-4217-B315-7946A9075CB3"
             }
         },
         {
@@ -26,7 +28,8 @@
             "VssExtensionGalleryFlags": [],
             "DisplayNamesSuffix": " (Development)",
             "TaskIds": {
-                "ExecuteTemplates": "F639E159-88E6-492B-902A-3876E37AE78E"
+                "ExecuteTemplates": "F639E159-88E6-492B-902A-3876E37AE78E",
+                "PostReleaseToSlack" : "E62DC0C0-F11C-49E7-8274-9A8638113238"
             }
         }
     ]
